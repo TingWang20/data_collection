@@ -1,0 +1,943 @@
+{
+    "prompts": "",
+    "status": 0,
+    "message": "success",
+    "data": {
+        "series_id": 5579,
+        "tab_info": {
+            "special_tag_list": [
+                {
+                    "part_id": "3",
+                    "series_id": 5579,
+                    "status": 1,
+                    "tag_name": "优点",
+                    "count": 401,
+                    "sentiment": 1
+                },
+                {
+                    "part_id": "4",
+                    "series_id": 5579,
+                    "status": 1,
+                    "tag_name": "缺点",
+                    "count": 107,
+                    "sentiment": 1
+                },
+                {
+                    "part_id": "5",
+                    "series_id": 5579,
+                    "status": 1,
+                    "tag_name": "带图评价",
+                    "count": 277,
+                    "sentiment": 1
+                }
+            ],
+            "tag_list": [
+                {
+                    "part_id": "P122",
+                    "series_id": 5579,
+                    "status": 1,
+                    "tag_name": "动力十足",
+                    "count": 47,
+                    "sentiment": 1
+                },
+                {
+                    "part_id": "P70",
+                    "series_id": 5579,
+                    "status": 1,
+                    "tag_name": "整体空间出色",
+                    "count": 42,
+                    "sentiment": 1
+                },
+                {
+                    "part_id": "P107",
+                    "series_id": 5579,
+                    "status": 1,
+                    "tag_name": "驾驶体验良好",
+                    "count": 38,
+                    "sentiment": 1
+                },
+                {
+                    "part_id": "P105",
+                    "series_id": 5579,
+                    "status": 1,
+                    "tag_name": "操控出色",
+                    "count": 27,
+                    "sentiment": 1
+                },
+                {
+                    "part_id": "P140",
+                    "series_id": 5579,
+                    "status": 1,
+                    "tag_name": "配置丰富",
+                    "count": 20,
+                    "sentiment": 1
+                },
+                {
+                    "part_id": "P94",
+                    "series_id": 5579,
+                    "status": 1,
+                    "tag_name": "内饰质感不错",
+                    "count": 19,
+                    "sentiment": 1
+                },
+                {
+                    "part_id": "P52",
+                    "series_id": 5579,
+                    "status": 1,
+                    "tag_name": "乘坐感受还可以",
+                    "count": 19,
+                    "sentiment": 1
+                },
+                {
+                    "part_id": "P41",
+                    "series_id": 5579,
+                    "status": 1,
+                    "tag_name": "续航表现较差",
+                    "count": 19,
+                    "sentiment": -1
+                },
+                {
+                    "part_id": "P7",
+                    "series_id": 5579,
+                    "status": 1,
+                    "tag_name": "离地间隙较差",
+                    "count": 15,
+                    "sentiment": -1
+                },
+                {
+                    "part_id": "P139",
+                    "series_id": 5579,
+                    "status": 1,
+                    "tag_name": "配置鸡肋",
+                    "count": 15,
+                    "sentiment": -1
+                },
+                {
+                    "part_id": "P101",
+                    "series_id": 5579,
+                    "status": 1,
+                    "tag_name": "底盘调校好",
+                    "count": 15,
+                    "sentiment": 1
+                },
+                {
+                    "part_id": "P188",
+                    "series_id": 5579,
+                    "status": 1,
+                    "tag_name": "外观时尚",
+                    "count": 14,
+                    "sentiment": 1
+                },
+                {
+                    "part_id": "P121",
+                    "series_id": 5579,
+                    "status": 1,
+                    "tag_name": "动力输出平顺",
+                    "count": 14,
+                    "sentiment": 1
+                },
+                {
+                    "part_id": "P117",
+                    "series_id": 5579,
+                    "status": 1,
+                    "tag_name": "动力响应灵敏",
+                    "count": 13,
+                    "sentiment": 1
+                },
+                {
+                    "part_id": "P40",
+                    "series_id": 5579,
+                    "status": 1,
+                    "tag_name": "续航表现优秀",
+                    "count": 12,
+                    "sentiment": 1
+                },
+                {
+                    "part_id": "P85",
+                    "series_id": 5579,
+                    "status": 1,
+                    "tag_name": "后备厢空间小",
+                    "count": 10,
+                    "sentiment": -1
+                },
+                {
+                    "part_id": "P223",
+                    "series_id": 5579,
+                    "status": 1,
+                    "tag_name": "新车异味较大",
+                    "count": 6,
+                    "sentiment": -1
+                },
+                {
+                    "part_id": "P219",
+                    "series_id": 5579,
+                    "status": 1,
+                    "tag_name": "有异响",
+                    "count": 5,
+                    "sentiment": -1
+                },
+                {
+                    "part_id": "P58",
+                    "series_id": 5579,
+                    "status": 1,
+                    "tag_name": "胎噪大",
+                    "count": 4,
+                    "sentiment": -1
+                },
+                {
+                    "part_id": "P148",
+                    "series_id": 5579,
+                    "status": 1,
+                    "tag_name": "辅助驾驶功能较少",
+                    "count": 4,
+                    "sentiment": -1
+                },
+                {
+                    "part_id": "P18",
+                    "series_id": 5579,
+                    "status": 1,
+                    "tag_name": "售后态度差",
+                    "count": 3,
+                    "sentiment": -1
+                },
+                {
+                    "part_id": "P93",
+                    "series_id": 5579,
+                    "status": 1,
+                    "tag_name": "内饰材质较差",
+                    "count": 2,
+                    "sentiment": -1
+                },
+                {
+                    "part_id": "P71",
+                    "series_id": 5579,
+                    "status": 1,
+                    "tag_name": "空间局促",
+                    "count": 2,
+                    "sentiment": -1
+                },
+                {
+                    "part_id": "P59",
+                    "series_id": 5579,
+                    "status": 1,
+                    "tag_name": "风噪大",
+                    "count": 2,
+                    "sentiment": -1
+                }
+            ]
+        },
+        "option_tab_list": [
+            {
+                "part_id": "S0",
+                "series_id": 5579,
+                "tag_name": "综合",
+                "tag_list": [],
+                "image_list": null,
+                "param_info": null,
+                "eval_info": null
+            },
+            {
+                "part_id": "S1",
+                "series_id": 5579,
+                "tag_name": "外观",
+                "tag_list": [
+                    {
+                        "part_id": "P188",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "外观时尚",
+                        "count": 14,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P186",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "外观拉风",
+                        "count": 8,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P208",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "尾部好看",
+                        "count": 5,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P185",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "外观大气",
+                        "count": 1,
+                        "sentiment": 1
+                    }
+                ],
+                "image_list": [
+                    "http://p1-dcd.byteimg.com/img/motor-mis-img/6fa06faa599146b49f0cd8617a2fd2c8~tplv-resize:640:0.png",
+                    "http://p1-dcd.byteimg.com/img/motor-mis-img/60770c11a8693b4bc45e55dcc4621aa3~tplv-resize:640:0.png",
+                    "http://p1-dcd.byteimg.com/img/motor-mis-img/b22245254927090a516f253ec80e535e~tplv-resize:640:0.png",
+                    "http://p1-dcd.byteimg.com/img/motor-mis-img/148186ff6c833ee3298d75a45fae4433~tplv-resize:640:0.png",
+                    "http://p1-dcd.byteimg.com/img/motor-mis-img/c6da3c9c9b5b03917bd8d320edc28bdf~tplv-resize:640:0.png",
+                    "http://p1-dcd.byteimg.com/img/motor-mis-img/43bdb7cbf5cdd1d14f6847f1067d7da6~tplv-resize:640:0.png",
+                    "http://p1-dcd.byteimg.com/img/motor-mis-img/420495a4715cd36d91cfa99f29bbe6c3~tplv-resize:640:0.png",
+                    "http://p1-dcd.byteimg.com/img/motor-mis-img/ec906300f91105b057c64e9aa7a65f0e~tplv-resize:640:0.png",
+                    "http://p1-dcd.byteimg.com/img/motor-mis-img/7b1f3853d1827552249193f5b0c18fea~tplv-resize:640:0.png",
+                    "http://p9-dcd.byteimg.com/img/motor-mis-img/f358e74d6961ce7bf903971aacee68de~tplv-resize:640:0.png"
+                ],
+                "param_info": null,
+                "eval_info": null
+            },
+            {
+                "part_id": "S2",
+                "series_id": 5579,
+                "tag_name": "内饰",
+                "tag_list": [
+                    {
+                        "part_id": "P94",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "内饰质感不错",
+                        "count": 19,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P229",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "内饰好看",
+                        "count": 12,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P228",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "内饰一般",
+                        "count": 6,
+                        "sentiment": 0
+                    },
+                    {
+                        "part_id": "P93",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "内饰材质较差",
+                        "count": 2,
+                        "sentiment": -1
+                    },
+                    {
+                        "part_id": "P97",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "内饰风格较差",
+                        "count": 1,
+                        "sentiment": -1
+                    }
+                ],
+                "image_list": [
+                    "http://p1-dcd.byteimg.com/img/motor-mis-img/714c2e904a38bf7aaf204707a151d1b6~tplv-resize:640:0.png",
+                    "http://p1-dcd.byteimg.com/img/motor-mis-img/6f3332a489158cf170202008c78fed8e~tplv-resize:640:0.png",
+                    "http://p9-dcd.byteimg.com/img/motor-mis-img/b4366c0ba4e9879a6e1c4cee658dec6b~tplv-resize:640:0.png",
+                    "http://p1-dcd.byteimg.com/img/motor-mis-img/9423fa4c5361512478fdca11f270d526~tplv-resize:640:0.png",
+                    "http://p1-dcd.byteimg.com/img/motor-mis-img/8bfc766bca49ab21372be589e273aa6a~tplv-resize:640:0.png",
+                    "http://p1-dcd.byteimg.com/img/motor-mis-img/68fc27183a32e913439e76e102162f0a~tplv-resize:640:0.png",
+                    "http://p1-dcd.byteimg.com/img/motor-mis-img/6f37ce5a28750320c7d7b7c1d3bcf573~tplv-resize:640:0.png",
+                    "http://p1-dcd.byteimg.com/img/motor-mis-img/3dab762c780d8452088b68384b576ebc~tplv-resize:640:0.png",
+                    "http://p1-dcd.byteimg.com/img/motor-mis-img/aa26ce3421e1816f0f2adca1fbc47639~tplv-resize:640:0.png",
+                    "http://p1-dcd.byteimg.com/img/motor-mis-img/3595b15bb5fc4fd22e611c6f952e6ee9~tplv-resize:640:0.png"
+                ],
+                "param_info": null,
+                "eval_info": null
+            },
+            {
+                "part_id": "S3",
+                "series_id": 5579,
+                "tag_name": "配置",
+                "tag_list": [
+                    {
+                        "part_id": "P140",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "配置丰富",
+                        "count": 20,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P139",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "配置鸡肋",
+                        "count": 15,
+                        "sentiment": -1
+                    },
+                    {
+                        "part_id": "P167",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "音响品质好",
+                        "count": 10,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P138",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "配置实用",
+                        "count": 7,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P177",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "车机操作流畅",
+                        "count": 4,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P158",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "天窗够大",
+                        "count": 4,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P148",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "辅助驾驶功能较少",
+                        "count": 4,
+                        "sentiment": -1
+                    },
+                    {
+                        "part_id": "P168",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "音响品质一般",
+                        "count": 2,
+                        "sentiment": 0
+                    },
+                    {
+                        "part_id": "P137",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "配置低",
+                        "count": 2,
+                        "sentiment": -1
+                    },
+                    {
+                        "part_id": "P178",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "车机卡顿严重",
+                        "count": 1,
+                        "sentiment": -1
+                    },
+                    {
+                        "part_id": "P172",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "车机设计传统",
+                        "count": 1,
+                        "sentiment": -1
+                    },
+                    {
+                        "part_id": "P146",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "辅助驾驶功能多",
+                        "count": 1,
+                        "sentiment": 1
+                    }
+                ],
+                "image_list": null,
+                "param_info": [
+                    {
+                        "desc": "外部配置",
+                        "value": "感应后尾门"
+                    },
+                    {
+                        "desc": "内部配置",
+                        "value": "全液晶仪表"
+                    },
+                    {
+                        "desc": "灯光配置",
+                        "value": "自适应远近光"
+                    },
+                    {
+                        "desc": "座椅配置",
+                        "value": "前排座椅通风"
+                    }
+                ],
+                "eval_info": null
+            },
+            {
+                "part_id": "S4",
+                "series_id": 5579,
+                "tag_name": "空间",
+                "tag_list": [
+                    {
+                        "part_id": "P70",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "整体空间出色",
+                        "count": 42,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P85",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "后备厢空间小",
+                        "count": 10,
+                        "sentiment": -1
+                    },
+                    {
+                        "part_id": "P74",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "后排空间大",
+                        "count": 7,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P80",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "后排地台平整",
+                        "count": 4,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P69",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "空间中规中矩",
+                        "count": 4,
+                        "sentiment": 0
+                    },
+                    {
+                        "part_id": "P83",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "后备厢空间大",
+                        "count": 3,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P76",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "后排中规中矩",
+                        "count": 2,
+                        "sentiment": 0
+                    },
+                    {
+                        "part_id": "P71",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "空间局促",
+                        "count": 2,
+                        "sentiment": -1
+                    },
+                    {
+                        "part_id": "P87",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "储物空间合理",
+                        "count": 1,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P79",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "后排地台隆起",
+                        "count": 1,
+                        "sentiment": -1
+                    },
+                    {
+                        "part_id": "P78",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "后排不舒服",
+                        "count": 1,
+                        "sentiment": -1
+                    },
+                    {
+                        "part_id": "P77",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "后排舒服",
+                        "count": 1,
+                        "sentiment": 1
+                    }
+                ],
+                "image_list": null,
+                "param_info": null,
+                "eval_info": {
+                    "chen_zuo_kong_jian": {
+                        "tui_bu_kong_jian": "暂无数据",
+                        "hou_pai_kuan_du": "1430mm",
+                        "qian_pai_tou_bu_kong_jian": "1110mm",
+                        "hou_pai_tou_bu_kong_jian": "920mm"
+                    },
+                    "hou_bei_xiang": {
+                        "hou_bei_xiang_shen_du": "1010mm",
+                        "hou_bei_xiang_kai_kou_gao_du": "420mm",
+                        "hou_bei_xiang_kai_kou_kuan_du": "1080mm",
+                        "hou_bei_xiang_li_di_gao_du": "670mm"
+                    },
+                    "zuo_dian": {
+                        "zuo_dian_qian_pai_kuan_du": "1490mm",
+                        "zuo_dian_hou_pai_kuan_du": "1430mm",
+                        "zuo_dian_chang_du_qian_pai": "490mm",
+                        "zuo_dian_chang_du_di_er_pai": "490mm"
+                    },
+                    "che_shen": {
+                        "che_gao": "1460mm",
+                        "che_chang": "4800mm",
+                        "che_kuan": "1875mm",
+                        "zui_xiao_li_di_jian_xi": "暂无数据",
+                        "zhou_ju": "2920mm"
+                    }
+                }
+            },
+            {
+                "part_id": "S5",
+                "series_id": 5579,
+                "tag_name": "舒适性",
+                "tag_list": [
+                    {
+                        "part_id": "P52",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "乘坐感受还可以",
+                        "count": 19,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P64",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "静谧性强",
+                        "count": 9,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P58",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "胎噪大",
+                        "count": 4,
+                        "sentiment": -1
+                    },
+                    {
+                        "part_id": "P158",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "天窗够大",
+                        "count": 4,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P157",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "人机工程不错",
+                        "count": 3,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P63",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "静谧性一般",
+                        "count": 2,
+                        "sentiment": 0
+                    },
+                    {
+                        "part_id": "P59",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "风噪大",
+                        "count": 2,
+                        "sentiment": -1
+                    },
+                    {
+                        "part_id": "P57",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "悬架支撑性强",
+                        "count": 2,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P54",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "悬挂表现不理想",
+                        "count": 2,
+                        "sentiment": -1
+                    },
+                    {
+                        "part_id": "P51",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "乘坐感受比较差",
+                        "count": 2,
+                        "sentiment": -1
+                    },
+                    {
+                        "part_id": "P56",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "悬架舒适性强",
+                        "count": 1,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P144",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "方向盘握感好",
+                        "count": 1,
+                        "sentiment": 1
+                    }
+                ],
+                "image_list": null,
+                "param_info": [
+                    {
+                        "desc": "标配",
+                        "value": "无钥匙启动"
+                    },
+                    {
+                        "desc": "标配",
+                        "value": "远程启动"
+                    },
+                    {
+                        "desc": "标配",
+                        "value": "手机无线充电"
+                    },
+                    {
+                        "desc": "标配",
+                        "value": "电动后尾门"
+                    },
+                    {
+                        "desc": "标配",
+                        "value": "遥控移动车辆"
+                    },
+                    {
+                        "desc": "标配",
+                        "value": "车内中控锁"
+                    },
+                    {
+                        "desc": "标配",
+                        "value": "内置行车记录仪"
+                    },
+                    {
+                        "desc": "标配",
+                        "value": "电动后尾门位置记忆"
+                    },
+                    {
+                        "desc": "标配",
+                        "value": "感应式后尾门"
+                    },
+                    {
+                        "desc": "标配",
+                        "value": "抬头显示系统(HUD)"
+                    },
+                    {
+                        "desc": "标配",
+                        "value": "110V/220V/230V电源插座"
+                    }
+                ],
+                "eval_info": null
+            },
+            {
+                "part_id": "S6",
+                "series_id": 5579,
+                "tag_name": "操控",
+                "tag_list": [
+                    {
+                        "part_id": "P107",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "驾驶体验良好",
+                        "count": 38,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P105",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "操控出色",
+                        "count": 27,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P101",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "底盘调校好",
+                        "count": 15,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P112",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "转向手感出色",
+                        "count": 5,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P110",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "刹车表现好",
+                        "count": 2,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P102",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "底盘调校运动",
+                        "count": 2,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P100",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "底盘表现不理想",
+                        "count": 2,
+                        "sentiment": -1
+                    },
+                    {
+                        "part_id": "P111",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "刹车表现较差",
+                        "count": 1,
+                        "sentiment": -1
+                    },
+                    {
+                        "part_id": "P109",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "刹车表现一般",
+                        "count": 1,
+                        "sentiment": -1
+                    },
+                    {
+                        "part_id": "P106",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "操控感较差",
+                        "count": 1,
+                        "sentiment": -1
+                    },
+                    {
+                        "part_id": "P104",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "底盘调校偏舒适",
+                        "count": 1,
+                        "sentiment": 1
+                    }
+                ],
+                "image_list": null,
+                "param_info": [
+                    {
+                        "desc": "驱动方式",
+                        "value": "后置后驱"
+                    },
+                    {
+                        "desc": "四驱类型",
+                        "value": "电动四驱"
+                    },
+                    {
+                        "desc": "前悬挂形式",
+                        "value": "双叉臂式独立悬挂"
+                    },
+                    {
+                        "desc": "后悬挂形式",
+                        "value": "多连杆式独立悬挂"
+                    }
+                ],
+                "eval_info": null
+            },
+            {
+                "part_id": "S7",
+                "series_id": 5579,
+                "tag_name": "动力",
+                "tag_list": [
+                    {
+                        "part_id": "P122",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "动力十足",
+                        "count": 47,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P121",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "动力输出平顺",
+                        "count": 14,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P117",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "动力响应灵敏",
+                        "count": 13,
+                        "sentiment": 1
+                    },
+                    {
+                        "part_id": "P120",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "动力中规中矩",
+                        "count": 2,
+                        "sentiment": 0
+                    },
+                    {
+                        "part_id": "P116",
+                        "series_id": 5579,
+                        "status": 1,
+                        "tag_name": "动力不足",
+                        "count": 1,
+                        "sentiment": -1
+                    }
+                ],
+                "image_list": null,
+                "param_info": [
+                    {
+                        "desc": "续航",
+                        "value": "550-700km"
+                    },
+                    {
+                        "desc": "快充",
+                        "value": "暂无"
+                    },
+                    {
+                        "desc": "慢充",
+                        "value": "暂无"
+                    },
+                    {
+                        "desc": "官方百公里加速时间",
+                        "value": "3.8-7.5s"
+                    }
+                ],
+                "eval_info": null
+            }
+        ]
+    }
+}

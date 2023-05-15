@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 car_seriesId=np.array(
-    [['汉车型','5499'],
+    [['汉','5499'],
     ['海豹','6394'],
     ['极氪001','6091'],
     ['蔚来ET7','5264'],
@@ -58,7 +58,14 @@ for i in range(0,len(car_seriesId)):
             temp=satis_n_unsatis[i][j]
             opinion=temp["Combination"]
             volume=temp["Volume"]
-            dic=[car,opinion,volume]
+            sentimentKey=temp['SentimentKey']
+            if sentimentKey==2:
+                sentimentKey='不满意'
+            elif sentimentKey==3:
+                sentimentKey='满意'
+            dic=[car,sentimentKey,opinion,volume]
             result.append(dic)
-df=pd.DataFrame(data=result,columns=['车型','观点','数值'],index=None)
-df.to_excel("data.xlsx",index=False,sheet_name='汽车之家网站')
+            
+df=pd.DataFrame(data=result,columns=['car_type','emotion','opinion','value'],index=None)
+df.drop(df[df.value==0].index,inplace=True)
+df.to_excel("data_汽车之家.xlsx",index=False,sheet_name='汽车之家')
